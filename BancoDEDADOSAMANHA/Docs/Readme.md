@@ -15,7 +15,7 @@
 * Marinalva Dos Santos
 * Eugenia Guedes
 * Felipe Cartaxo
-* Luana Jessica
+* Luana Jessica Ferreira da Silva
 
 
 
